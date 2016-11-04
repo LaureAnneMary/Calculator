@@ -11,6 +11,7 @@ int main()
     scanf("%d", &a);
     printf( " et ");
     scanf("%d", &b);
-    printf("Quand on fait %d + %d ca donne %d", a, b, addition( a, b));
+    printf("le resultat est le l'addition de %d et %d est %d", a, b, addition( a, b));
+
     return 0;
 }
