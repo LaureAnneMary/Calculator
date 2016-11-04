@@ -10,7 +10,7 @@ int soustraction( int a, int b){
 int main()
 {
     int a, b;
-    printf("Choisir deux chiffres :");
+    printf("Choisir deux nombre entre 0 et 10000000000000 ( a toi de voir ;)) :");
     scanf("%d", &a);
     printf( " et ");
     scanf("%d", &b);
